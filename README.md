@@ -81,7 +81,7 @@ docs: update README with API usage
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/social-media-feed-backend.git
+   git clone https://github.com/Annabdiyu/alx-project-nexus.git
    cd social-media-feed-backend
    ```
 2. **Install dependencies**
@@ -103,14 +103,4 @@ docs: update README with API usage
 
 ---
 
-## 📄 License
 
-Specify your license here (e.g., MIT, Apache 2.0).
-
----
-
-**Happy coding and scaling!** 🚀
-
----
-
-Would you like me to include example GraphQL queries or mutations for quick testing?
