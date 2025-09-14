@@ -99,7 +99,7 @@ docs: update README with API usage
    ```bash
    python manage.py runserver
    ```
-5. Access GraphQL Playground at `http://localhost:8000/graphql/`
+
 
 ---
 
